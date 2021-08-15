@@ -2,7 +2,7 @@
 
 <img src="https://github.com/LHerdy/LHerdy/blob/master/banner/img.png?raw=true">  
 
-I'm passionate about technology. Some technologies I enjoy working with include Java (Spring), Python (Django, Flask), Pandas and ReactJS.
+I'm passionate about technology. Some technologies I enjoy working with include Python (Django, Flask), Pandas, NumPy, scikit-learn, matplotlib and Java (Spring).
 
 
 ## Find me around the web 🌎: 
