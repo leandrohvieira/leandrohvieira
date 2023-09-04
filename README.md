@@ -41,8 +41,7 @@ In Big Data & Analytics, I do data munging and data analysis with Pandas, Numpy,
 <details>
  <summary><h3>👨‍💻 Leandro's Coding Journey</h3></summary>
 I'm passionate about technology.
-I started my coding journey as a naive student of Systems Analysis and Development with a passion for learning everything I could about the programming world - code, linux, theory.
-
+I started my coding journey as a naive student of Systems Analysis and Development at INFNET with a passion to learn everything I could about the world of programming - code, Linux, theory.
 
 
 
