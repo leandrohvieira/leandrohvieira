@@ -2,9 +2,11 @@
 
 I graduated in Analysis and Systems Development, software developer with 3 years of professional experience.
 
-Currently, I'm developing APIs (JSON, GraphQL) and microservices. Developing in Python with Django, FastAPI and Java with Server-side Spring Boot. I build tests such as TDD - Test Driven Development, Unit Test, Messaging and SQL database. Using container Docker and Cloud Computing (AWS), based on agile methodologies, Scrum and DevOps.
+I'm currently developing APIs (JSON, GraphQL) and microservices. Developing in Python with Django, FastAPI and Java with Server-side Spring Boot. I build tests such as TDD - Test Driven Development, Unit Test, Messaging (RabbitMQ) and SQL database. Using container Docker and Cloud Computing (AWS), based on agile methodologies, Scrum, clean code and DevOps.
 
-In Big Data & Analytics, I do data munging and data analysis with Pandas, Numpy, Regex and Apache Spark SQL on the Databricks platform. Construction of graphs with Plotly Dash, Matplotlib, seaborn and Power BI. Build and train supervised Machine Learning models for prediction and binary classification tasks, including linear regression, logistic regression and neural networks with tensorflow. 
+In Big Data & Analytcs, I perform data munging and data analysis with Pandas, Numpy, Regex and Apache Spark SQL on the Databricks platform. Construction of graphs with Plotly Dash, Matplotlib, seaborn and Power BI.
+
+Build and train Machine Learning models, including supervised learning (linear regression, logistic regression, neural networks, decision trees), unsupervised learning (clustering, anomaly detection), recommendation systems and reinforcement learning.
 
   #### Need a developer? 
   ## Let's work together: 
